@@ -1,0 +1,18 @@
+/* custom.css */
+
+:root {
+	/* Text size and line height */
+	--sl-text-xs: 0.8125rem; /* 13px */
+	--sl-text-sm: 0.875rem; /* 14px */
+	--sl-text-base: 1rem; /* 16px */
+	--sl-text-lg: 1rem; /* h6, 16px */
+	--sl-text-xl: 1rem; /* h5, 16px */
+	--sl-text-2xl: 1.25rem; /* h4, 28px */
+	--sl-text-3xl: 1.5rem; /* h3, 24px */
+	--sl-text-4xl: 1.75rem; /* h2, 28px */
+	--sl-text-5xl: 2.5rem; /* h1, 40px */
+	--sl-text-6xl: 4rem; /* 64px */
+}
+main ul {
+	list-style-type: disc;
+  }
